@@ -4,5 +4,5 @@ public interface IAuthController {
     void login();
     void register();
     void logout();
-    void authDestination();
+    void authDestination() throws InterruptedException;
 }

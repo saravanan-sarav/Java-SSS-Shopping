@@ -12,4 +12,5 @@ public class WelcomeView {
     public void options() {
         println(StringUtils.AUTH_CHOICE);
     }
+
 }

@@ -4,7 +4,7 @@ import java.sql.Timestamp;
 import java.util.ArrayList;
 
 public class Cart {
-    private Timestamp id;
+    private long id;
     private ArrayList<CartProduct> cartProducts;
 
 }

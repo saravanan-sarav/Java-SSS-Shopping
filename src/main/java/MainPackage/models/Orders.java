@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Date;
 
 public class Orders {
-    private Timestamp id;
+    private long id;
     private Date date;
      private ArrayList<Cart> cart;
 }

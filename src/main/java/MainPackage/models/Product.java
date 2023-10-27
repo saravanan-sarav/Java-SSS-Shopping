@@ -3,18 +3,18 @@ package MainPackage.models;
 import java.sql.Timestamp;
 
 public class Product {
-    private Timestamp id;
+    private long id;
     private String title;
     private String description;
     private Double price;
     private int stocks;
     private Catogory catogory;
 
-    public Timestamp getId() {
+    public long getId() {
         return id;
     }
 
-    public void setId(Timestamp id) {
+    public void setId(long id) {
         this.id = id;
     }
 

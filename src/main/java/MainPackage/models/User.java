@@ -3,11 +3,10 @@ package MainPackage.models;
 import java.sql.Timestamp;
 
 public class User {
-    private Timestamp id;
+    private long id;
     private String userName;
     private String email;
     private String password;
-    private String confirmPassword;
     private Role role;
     private Cart cart;
     private Orders orders;
@@ -28,11 +27,11 @@ public class User {
         this.orders = orders;
     }
 
-    public Timestamp getId() {
+    public long getId() {
         return id;
     }
 
-    public void setId(Timestamp id) {
+    public void setId(long id) {
         this.id = id;
     }
 
@@ -58,14 +57,6 @@ public class User {
 
     public void setPassword(String password) {
         this.password = password;
-    }
-
-    public String getConfirmPassword() {
-        return confirmPassword;
-    }
-
-    public void setConfirmPassword(String confirmPassword) {
-        this.confirmPassword = confirmPassword;
     }
 
     public Role getRole() {

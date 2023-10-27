@@ -3,14 +3,14 @@ package MainPackage.models;
 import java.sql.Timestamp;
 
 public class Catogory {
-    private Timestamp id;
+    private long id;
     private String catogoryName;
 
-    public Timestamp getId() {
+    public long getId() {
         return id;
     }
 
-    public void setId(Timestamp id) {
+    public void setId(long id) {
         this.id = id;
     }
 
