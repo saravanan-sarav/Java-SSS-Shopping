@@ -37,9 +37,9 @@ __________________________________________________
         - See Orders.
 ____________________________________________________
 # REQUIREMENTS COMPLETED:
-  #  - Register
-   # - Login
-   # - Customer Control
+    - Register
+    - Login
+   - **Customer Control**
         - View Products
         - View Catogory
         - Add to Cart
