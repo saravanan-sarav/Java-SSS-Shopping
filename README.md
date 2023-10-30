@@ -17,11 +17,11 @@ _____________________________________________
     - Then Login to Access the Shooping Platform.
 __________________________________________________
 # PROJECT OVERVIEW: (Full Edition)
-  #  - Registration
+    - **Registration**
         - Seller/Customer register
-   # - Login
+    - **Login**
         - Seller/Customer Login
-   # - Customer Controls
+    - **Customer Controls**
         - View Products
         - View Category
         - Add Products to the Cart
@@ -29,7 +29,7 @@ __________________________________________________
         - Place Orders
         - View Invoice of Orders
         
-   # - Seller Controls
+    - **Seller Controls**
         - Add Products
         - Delete Products
         - Edit Products
