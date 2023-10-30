@@ -108,7 +108,7 @@ ______________________________________________________________
             - Orders
             - LogOut
         (https://github.com/saravanan-sarav/Java-SSS-Shopping/assets/145537699/b839c48a-7061-49ec-bd06-208032432dc1)
-        <img src ="https://github.com/saravanan-sarav/Java-SSS-Shopping/assets/145537699/b839c48a-7061-49ec-bd06-208032432dc1"/>
+        <img src="https://github.com/saravanan-sarav/Java-SSS-Shopping/assets/145537699/b839c48a-7061-49ec-bd06-208032432dc1"/>
 
     - CATOGORY PAGE
         - List the Categories
